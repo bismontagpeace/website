@@ -1,3 +1,7 @@
+# BISMONTAG PEACE
+# Temporary full crawl block during relaunch phase
+# All bots are disallowed
+
 User-agent: *
 Disallow: /
 
